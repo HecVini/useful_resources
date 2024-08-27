@@ -55,8 +55,11 @@ Content here is organized by topics:<br>
 - [SRTM](https://www.earthdata.nasa.gov/sensors/srtm#:~:text=The%20Shuttle%20Radar%20Topography%20Mission,global%20dataset%20of%20land%20elevations.): topological rasters for the whole world. Just insert the desired bbox and download the correspondent .tiff file. 
 - [Carbon Rating Agencies](https://www.sylvera.com/blog/what-is-a-carbon-credit-agency): companies that evaluate the quality of carbon removal/reduction projects globally.
 - [Berkeley Carbon Trading Project](https://gspp.berkeley.edu/research-and-impact/centers/cepp/projects/berkeley-carbon-trading-project): all carbon offests issued by Verra, Gold Standard and ACR with its metadata. Lead by Prof. Barbara Haya.
-- [Global Forest Watch](https://earthenginepartners.appspot.com/science-2013-global-forest): worldwide data on deforestation. Available for 2000 onwards. 
 - [SEEG](https://seeg.eco.br/en/home/): CO2e emissions estimates for Brazil. Municipality and sector level. From the 70s onwards. 
 - [EMIT](https://lpdaac.usgs.gov/product_search/?query=EMITL2BCO2&collections=EMIT&status=Operational&view=list&sort=title): global CO2 emissions rasters. 
 - [Global Urban Polygons and Points Dataset (GUPPD)](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1): 1975-2030 urban areas polygons and populations.
 - [Global Forest Watch](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html): 30m resolutions rasters for forest cover and loss since 2000.
+- [Global Administrative Areas (GADM)](https://gadm.org/data.html): over 400k shapefiles for administrative areas globally.
+- [HydroATLAS](https://www.hydrosheds.org/hydroatlas): global database on water resources. Includes shapefiles for all rivers, lakes and watersheds. Also estimates for natural discharge, runoff and other variables.
+- [Copernicus Atmosphere Monitoring Service (CAMS)](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_CAMS_NRT#description): Global near-real-time data on atmospheric polution. 
+- [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://data.isimip.org/datasets/24cb1007-3c96-4b59-a0dc-42d94a8cff8c/): future climate projections up to 2100. 
