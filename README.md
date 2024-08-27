@@ -22,7 +22,10 @@ Content here is organized by topics:<br>
 
 ### 1. Econometrics
 - [DiD Handbook](https://github.com/IanHo2019/DID_Handbook): a repository with some Diff-in-Diff methods and when to use each.
+- [Dijkstra's Shortest Path Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm): in a network, find the shortest path between any two points.
 
+- [Deep Learning for Economists](https://econdl.github.io/blog/2.html): Melissa Dell's course on deep learning models.
+  
 ### 2. R
 - [Awesome Packages](https://github.com/HecVini/AwesomePackages): my own list of R packages to use. Categorized into four sections: exploratory data analysis (EDA), data visualization, econometrics, and APIs.
 
@@ -34,18 +37,26 @@ Content here is organized by topics:<br>
 - [gc (Garbage Collection)](https://stackify.com/python-garbage-collection/): clean cache to avoid RAM overload. Make sure to collect your gargabe when running heavy loops.
 
 ### 4. Research in Economics
+- [Zotero](https://www.zotero.org): organize papers your read and easily export their citations. A must use for all researchers.
 - [Tips for Presentations in Applied Micro Talks, by Jesse Shapiro (Harvard University)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf): straightforward tips on it. It has concrete examples of what to do (and what not to do), with some humor.
 - [Tips on Writing Papers in Economics, by Plamen Nikolov (IZA)](https://docs.iza.org/dp15057.pdf): complete guide with concrete examples on it. It has suggestions for every part of a paper.
 - [Writing Papers: A Checklist, by Michael Kremer (University of Chicago)](http://qed.econ.queensu.ca/pub/faculty/sumon/mkremer_checklist_paper.pdf): a concise checklist of what a paper must have.
 - [Paper Template](https://www.overleaf.com/latex/templates/basic-working-paper-template-economics-and-management/bwpmkcbynmzj): overleaf TEX template for papers in economics.
+- [Recent Advances in Applied Micro, by Christine Cai](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf): the state of the art of empirical methods in micro - OLS, RCT, DiD, IV, RDD, Synthetic Control, Matching, Bunching and Decomposition.
 
 ### 5. Miscellaneous
 - [GitHub Copilot (free for students)](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal): imagine having a ChatGPT in your IDE? If you are a student, you can have it for free on VSCode.
 
-### 6. Environment
+### 6. Datasets
 - [ctrees.org](https://ctrees.org/products/land-carbon): startup that estimates above ground carbon for all forests in the world.
-- [CHIRPS](https://www.chc.ucsb.edu/data/chirps): daily precipitation estiamtes for the whole world since the 80s. It uses stationary satelites to do it. 
+- [CHIRPS](https://www.chc.ucsb.edu/data/chirps): daily precipitation estimates for the whole world since the 80s. It uses stationary satelites to do it. 
+- [GISTEMP](https://data.giss.nasa.gov/gistemp/): monthly estimates of global surface temperature for the whole world since 1800. 
 - [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/): fire data for the whole world (discover the details).
 - [SRTM](https://www.earthdata.nasa.gov/sensors/srtm#:~:text=The%20Shuttle%20Radar%20Topography%20Mission,global%20dataset%20of%20land%20elevations.): topological rasters for the whole world. Just insert the desired bbox and download the correspondent .tiff file. 
 - [Carbon Rating Agencies](https://www.sylvera.com/blog/what-is-a-carbon-credit-agency): companies that evaluate the quality of carbon removal/reduction projects globally.
 - [Berkeley Carbon Trading Project](https://gspp.berkeley.edu/research-and-impact/centers/cepp/projects/berkeley-carbon-trading-project): all carbon offests issued by Verra, Gold Standard and ACR with its metadata. Lead by Prof. Barbara Haya.
+- [Global Forest Watch](https://earthenginepartners.appspot.com/science-2013-global-forest): worldwide data on deforestation. Available for 2000 onwards. 
+- [SEEG](https://seeg.eco.br/en/home/): CO2e emissions estimates for Brazil. Municipality and sector level. From the 70s onwards. 
+- [EMIT](https://lpdaac.usgs.gov/product_search/?query=EMITL2BCO2&collections=EMIT&status=Operational&view=list&sort=title): global CO2 emissions rasters. 
+- [Global Urban Polygons and Points Dataset (GUPPD)](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1): 1975-2030 urban areas polygons and populations.
+- [Global Forest Watch](https://storage.googleapis.com/earthenginepartners-hansen/GFC-2023-v1.11/download.html): 30m resolutions rasters for forest cover and loss since 2000.
